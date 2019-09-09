@@ -12,3 +12,4 @@ Il existe deux types de fichiers JSON. Il s’agit soit d’un ensemble de paire
 ordonnée de valeurs
 
 https://help.memoq.com/8-5/en/Places/javascript-object-notation-json.html
+http://www.json.org/
