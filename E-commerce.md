@@ -30,6 +30,9 @@ Skrill |	Aucun |	Carte de crédit, compte courant |	 Maîtrise de ses dépenses 
 Paypal |	30 $ / mois - Paiements Pro, 2,9% + 0,30 $ / transaction, 1-4% / transaction - conversion de devise, 20 $ par rétrofacturation |	Paypal, Visa, Mastercard, AMEX et autres |	202+ pays. Ruby, Python, PHP, Node.js, Java, iOS, Android |
 Braintree |	Pas de frais mensuels, 2,9% + 0,30 $ / transaction, 1% / transaction - conversion de devise, 15 $ / rejet de débit |	PayPal, Venmo, Android Pay, Apple Pay, Bitcoin, Visa, MasterCard, AMEX et autres |	46 pays. Ruby, Python, PHP, Node.js, Java, Android, iOS |	 
 
+# Sandbox
+Le Sandbox désigne le fait qu’un programme soit mis de côté par d’autres programmes dans un environnement séparé. Ainsi, en cas d’erreur ou de problème de sécurité, ces problèmes ne se propagent pas dans d’autres zones de l’ordinateur. Les programmes sont activés dans leur propre zone séquestrée, où ils peuvent être travaillés sans poser de menace pour les autres programmes. Les bacs à sable sont donc utilisés pour exécuter en toute sécurité un code suspect sans que le périphérique hôte ou le réseau ne soit endommagé.
+
 # Payement process
 Entreprise autorisée à traiter les transactions par carte de crédit entre vendeurs et acheteurs. Le processeur de paiement est souvent la tierce partie et sera nommé par le commerçant. Il existe deux types de processeurs de paiement. extrémité avant et arrière.
 
