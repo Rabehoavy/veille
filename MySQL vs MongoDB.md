@@ -1,3 +1,4 @@
-  |	MySQL |	MongoDB
+ c |	MySQL |	MongoDB
 ------------ | ------------- | ------------- 
-Paylib | Proposition tarifaire à demander pour les commerçants |	Carte bancaire 
+Stockage | Tables |	Documents
+Stockage | SQL |	NoSQL
