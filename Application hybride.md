@@ -1,0 +1,1 @@
+Une application hybride est une application utilisant le navigateur web intégré du smartphone et les technologies Web (HTML, CSS et Javascript) pour fonctionner sur différents OS (iOS, Android, Windows Phone). Ces applications utilisent les fonctionnalités natives des Smartphones et peuvent être distribuées sur l'AppStore, le Google Play, etc.
