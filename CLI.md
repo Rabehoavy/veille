@@ -1,0 +1,1 @@
+Command Line Interpreter. Interpréteur de ligne de commande. Programme en mode caractère servant d'interface utilisateur au système d'exploitation. Il sert à commander la machine, et pour cela reçoit et interprète des commandes, envoyées par l'utilisateur sous la forme de saisies.
