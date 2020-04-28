@@ -1,4 +1,4 @@
-JSON Web Tokens permet d’échanger du contenu pour un utilisateur authentifié grâce à la clé secrète utilisée dans la signature. La signature permet également d’assurer l’intégrité du contenu.
+JSON Web Tokens permet d’échanger du contenu pour un utilisateur authentifié grâce à la clé secrète utilisée dans la signature. Il permet l'échange sécurisé de jetons (tokens) entre plusieurs parties. La signature permet également d’assurer l’intégrité du contenu.
 Un token JWT se compose de 3 chaines de caractères séparées par un ".".
 
 >eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
