@@ -1,0 +1,5 @@
+# Développez des applications de bureau multi-plateformes avec JavaScript, HTML et CSS
+Le framework Electron permet d'écrire des applications de bureau multiplateformes en utilisant JavaScript, HTML et CSS. Il est basé sur Node.js et Chromium.
+
+# Installation
+npm install electron -g
